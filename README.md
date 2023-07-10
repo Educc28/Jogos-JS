@@ -12,4 +12,4 @@ Regras:
 
 Curso sobre JavaScript disponibilizado pela Free Code Camp:
   - Link para o curso: https://www.youtube.com/watch?v=ec8vSKJuZTk
-  - Link para o Github da FreeCodeCamp: https://github.com/kubowania/memory-game
+  - Link para o Github da FreeCodeCamp: https://github.com/kubowania
